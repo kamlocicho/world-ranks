@@ -1,0 +1,11 @@
+.counts {
+    margin: 12px 0;
+    width: 50%;
+    color: var(--text-secondary)
+}
+
+@media(max-width: 800px) {
+    .counts {
+        width: 100%;
+    }
+}
